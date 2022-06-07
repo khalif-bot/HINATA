@@ -5,16 +5,12 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ['6283190403329'],
-  ['6281313312123'],
-  ['62895605887712'],
-  ['6282328303332'],
-  ['62887435373103'],
-  ['6282195322106', '️Owner Hinata-Md', true]
+  ['6281315017916'],
+  ['6281315017916', '️Owner Khalif', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['6281315017916'] // Want some help?
+global.prems = ['6281315017916'] // Premium user has unlimited limit
 global.girlfren = [] // Your gf/pacar
 
 //Api website
@@ -66,11 +62,10 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 // Sticker WM
-//global.packname = '███╗░░██╗██╗██╗░░██╗\n████╗░██║██║██║░░██║\n██╔██╗██║██║███████║\n██║╚████║██║██╔══██║\n██║░╚███║██║██║░░██║\n╚═╝░░╚══╝╚═╝╚═╝░░╚═╝'
-global.packname = 'Created By'
-global.author = 'Hinata-Md'
-global.wm = "Hinata-Md X Wudysoft"
-global.multiplier = 69 // The higher, The harder levelup
+global.packname = 'BOTz'
+global.author = 'Khalif'
+global.wm = "© Khalif"
+global.multiplier = 50 // The higher, The harder levelup
 
 //
 global.eror = 'Erorr...'
@@ -81,12 +76,12 @@ global.logo = "https://i.pinimg.com/564x/1d/10/8e/1d108e56fb96be61d9b48f7e17dd95
 global.gcwangsaf = "https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq"//Link Group whatsapp
 
 //Donasi
-global.saweria = "https://saweria.co/wudysoft"// website saweria.co
-global.dana = ["0887435373103"]
-global.pulsa = ["082195322106"]//pulsa here
-global.trakteer = "https://trakteer.id/wudysoft"//Link url https://
-global.paypal = "wudysoft@gmail.com"//paypal email
-global.gopay = "082195322106"//Numver for Payment digital Gopay Gojek
+global.saweria = "-"// website saweria.co
+global.dana = ["081315017916"]
+global.pulsa = ["081315017916"]//pulsa here
+global.trakteer = "-"//Link url https://
+global.paypal = "khalif135gm@gmail.com"//paypal email
+global.gopay = "-"//Numver for Payment digital Gopay Gojek
 
 //Rpg
 global.rpg = {
